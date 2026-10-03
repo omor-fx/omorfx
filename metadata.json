@@ -1,0 +1,6 @@
+{
+  "name": "OMOR FX — Real Market & OTC Trading Signals",
+  "description": "Quotex-focused Real Market and OTC Market trading analysis dashboard with live signals, Lightweight Charts, and browser voice alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
